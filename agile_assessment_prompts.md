@@ -7,6 +7,7 @@
 * False (0)
 * Not applicable (NULL)
 
+
 * Red: IFF any dimension is below 1.0
 * Green: IFF any four dimensions are above 2.0 and none are below 1.0
 * Yellow: All else
