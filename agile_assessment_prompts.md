@@ -2,7 +2,6 @@
 
 ## Evaluation Scale
 
-<<<<<<< HEAD
 =======
 * True (3)
 * More True than False (2)
@@ -10,7 +9,6 @@
 * False (0)
 * Not applicable (NULL)
 
->>>>>>> 3e06e23d5588e06277a2bf7a1b291c65445a14d4
 ## Community and Culture
 
 1. Team members self-select their next work item and are trusted to complete the work
