@@ -10,6 +10,7 @@ False
 
 Not applicable
 
+
 ## Community and Culture
 1. Team members self-select their next work item and are trusted to complete the work
 2. The team's pace is sustainable indefinitely, without major risk of burnout
